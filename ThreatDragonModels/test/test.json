@@ -34,7 +34,7 @@
                   "class": "element-shape hasNoOpenThreats isInScope"
                 },
                 "text": {
-                  "text": "process data"
+                  "text": "Web\nApplication"
                 },
                 ".element-text": {
                   "class": "element-text hasNoOpenThreats isInScope"
@@ -55,6 +55,7 @@
               "id": "e830bef6-7e92-4846-bf16-024f5340a7e0",
               "z": 2,
               "hasOpenThreats": false,
+              "threats": [],
               "attrs": {
                 ".element-shape": {
                   "class": "element-shape hasNoOpenThreats isInScope"
@@ -268,15 +269,22 @@
                 "height": 100
               },
               "position": {
-                "x": 673,
-                "y": 307
+                "x": 680,
+                "y": 222
               },
               "angle": 0,
               "id": "cb1fe95f-a147-4824-ba38-ebe96417f6e2",
               "z": 8,
+              "hasOpenThreats": false,
               "attrs": {
+                ".element-shape": {
+                  "class": "element-shape hasNoOpenThreats isInScope"
+                },
                 "text": {
                   "text": "process 7"
+                },
+                ".element-text": {
+                  "class": "element-text hasNoOpenThreats isInScope"
                 }
               }
             }
